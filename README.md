@@ -1,2 +1,2 @@
-focusedcode.github.io
-=====================
+Placeholder site for http://focusedcode.com
+
